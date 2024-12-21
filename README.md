@@ -1,6 +1,8 @@
-# FitchGroup_Codeathon_Group-7-
-This shows the description of the Power Automate/Share Point Project we built to help UCAN automate their car rental process conveniently
-To view our demo, please go to: https://drive.google.com/file/d/1b4oZ41Qj0ffC3gX3gw_AEyHvzqLmXqSF/view?usp=share_link
+Our project for the FitchGroup Codeathon aimed to streamline and automate the fleet management process for UCAN Chicago by developing a comprehensive car rental system using Microsoft Power Automate and SharePoint. We designed an intuitive, automated workflow that simplifies vehicle requests, approvals, and returns, allowing UCAN staff to efficiently manage their fleet, track allocations, and ensure smooth communication between employees, managers, and facility teams.
 
+To view the general directions/requirements: https://fitch-code4cause-2024-chicago.devpost.com/
 
-To view our full site: https://ucanchicago.sharepoint.com/sites/UCANVehicleFleet/SitePages/Dashboard.aspx?csf=1&web=1&e=oQgsoQ&CID=e5fe4ff3-b838-4c72-b2e9-5de9deb5237e
+To view our project, please go to: https://devpost.com/software/fitch-group-7
+
+To view our demo: https://drive.google.com/file/d/1b4oZ41Qj0ffC3gX3gw_AEyHvzqLmXqSF/view?usp=share_link
+
